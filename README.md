@@ -1,18 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mehdhat</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# 👋 Hi, I’m Mehdhat Hafeez
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehdhat-hafeez-709197287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdhat hafeez" height="30" width="40" /></a>
-</p>
+### I build things for the web 🚀  
+[Live portfolio](https://portfolio-eonz.vercel.app/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Mehdhat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/><br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehdhat&theme=dark&hide_border=false)<br/>
+## 📌 About Me
+- 💻 Aspiring/full‑stack developer focused on modern web technologies.
+- 🎓 Student / early‑career professional in computer science / IT (based in Karachi, Pakistan).
+- 🧠 Passionate about **databases, computer architecture, AI tools, and clean, maintainable code**.
+- 📚 Active learner who creates and shares notes and project documentation.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+- **Frontend:** HTML, CSS, JavaScript, React (or your stack)
+- **Backend:** Node.js / Express (or your backend stack)
+- **Databases:** SQL, PostgreSQL / MySQL / MongoDB (as applicable)
+- **Tools:** Git, GitHub, Vercel, VS Code
+
+> _You can add badges or icons if you want to make it more visual._
+
+---
+
+## 🏆 What I’m Working On
+- 🧩 Building and maintaining a **personal portfolio website** ([portfolio-eonz.vercel.app](https://portfolio-eonz.vercel.app/)).
+- 📚 Deep‑diving into **DBMS concepts, computer architecture, and AI‑powered workflows**.
+- 🧑‍💻 Creating study notes, tutorials, and small side projects to sharpen my skills.
+
+---
+
+## 📬 Let’s Connect
+- 🐱 GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🖥️ Portfolio: [portfolio-eonz.vercel.app](https://portfolio-eonz.vercel.app/)
+
+---
+
+## 🎯 Goals
+- Build **production‑grade projects** with proper documentation and testing.
+- Contribute to **open‑source** and collaborate with other developers.
+- Share **clear, beginner‑friendly notes and tutorials** for others in Pakistan and beyond.
+
+---
+
+📬 *Thanks for visiting my profile! Feel free to check out my repos or reach out if you want to collaborate.*
 
 
 
