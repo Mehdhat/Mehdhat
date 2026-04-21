@@ -25,16 +25,9 @@
 
 ---
 
-## 🏆 What I’m Working On
-- 🧩 Building and maintaining a **personal portfolio website** ([portfolio-eonz.vercel.app](https://portfolio-eonz.vercel.app/)).
-- 📚 Deep‑diving into **DBMS concepts, computer architecture, and AI‑powered workflows**.
-- 🧑‍💻 Creating study notes, tutorials, and small side projects to sharpen my skills.
-
----
-
 ## 📬 Let’s Connect
-- 🐱 GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🐱 GitHub: https://github.com/Mehdhat
+- 📧 Email: mehdhathafeez@gmail.com
 - 🖥️ Portfolio: [portfolio-eonz.vercel.app](https://portfolio-eonz.vercel.app/)
 
 ---
