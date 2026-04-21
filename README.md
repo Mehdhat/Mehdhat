@@ -21,8 +21,6 @@
 - **Databases:** SQL, PostgreSQL / MySQL / MongoDB (as applicable)
 - **Tools:** Git, GitHub, Vercel, VS Code
 
-> _You can add badges or icons if you want to make it more visual._
-
 ---
 
 ## 📬 Let’s Connect
