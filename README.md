@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mehdhat Hafeez
 
 ### I build things for the web  and mobile 🚀  
-[Live portfolio](https://portfolio-eonz.vercel.app/)  
+[Live portfolio](https://portfolio-mu-ashen-99.vercel.app/)  
 
 ---
 
@@ -26,7 +26,7 @@
 ## 📬 Let’s Connect
 - 🐱 GitHub: https://github.com/Mehdhat
 - 📧 Email: mehdhathafeez@gmail.com
-- 🖥️ Portfolio: [portfolio-eonz.vercel.app](https://portfolio-eonz.vercel.app/)
+- 🖥️ Portfolio: [portfolio-eonz.vercel.app](https://portfolio-mu-ashen-99.vercel.app/)
 
 ---
 
