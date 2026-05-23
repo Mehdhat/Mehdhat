@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mehdhat Hafeez
 
-### I build things for the web 🚀  
+### I build things for the web  and mobile 🚀  
 [Live portfolio](https://portfolio-eonz.vercel.app/)  
 
 ---
