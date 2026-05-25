@@ -18,7 +18,7 @@
 ### Languages & Frameworks
 - **Frontend:** HTML, CSS, JavaScript, React (or your stack)
 - **Backend:** Node.js / Express (or your backend stack)
-- **Databases:** SQL, PostgreSQL / MySQL / MongoDB (as applicable)
+- **Databases:** Firebase  / MongoDB (as applicable)
 - **Tools:** Git, GitHub, Vercel, VS Code
 
 ---
